@@ -678,3 +678,48 @@ form element
 .left carousel-control, .right carousel-control{
     margin: 0 auto;
 }
+
+
+.link_servicios {
+    color: black;
+    text-decoration: none;
+}
+
+.link_servicios:hover {
+    color: hotpink;
+
+}
+
+#bannerm
+{
+    background: url('../img/banner-mom.jpg') no-repeat;
+    background-size: cover;
+    min-height: 700px;
+}
+
+
+.floated {
+    float: left;
+    box-sizing: border-box;
+    min-height: 50px;
+    width: 50%;
+    margin: auto;
+    padding: auto;
+}
+
+.right {
+    float: left
+    margin-left: 52%
+    width: 50%;
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+}
+
+.clear{
+    clear: both;
+}
+
+.faq {
+    list-style-type: none;
+}
